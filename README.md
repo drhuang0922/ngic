@@ -162,6 +162,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Roadmap
 
+- [ ] apply encode/decode from golang.org/x/image/webp and avif
 - [ ] Additional input formats (GIF, BMP, TIFF)
 - [ ] Progress bars for batch operations
 - [ ] Image resizing capabilities
