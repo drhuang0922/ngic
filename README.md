@@ -1,6 +1,6 @@
 # NGIC - Next Generation Image Converter
 
-[![Go Version](https://img.shields.io/badge/go-%3E%3D1.21-blue.svg)](https://golang.org/)
+[![Go Version](https://img.shields.io/badge/go-%3E%3D1.24-blue.svg)](https://golang.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 A fast, lightweight, and zero-dependency command-line tool for converting JPG/PNG images to next-generation formats (WebP, AVIF). Built with Go for maximum performance and minimal resource usage.
@@ -165,6 +165,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] Additional input formats (GIF, BMP, TIFF)
 - [ ] Progress bars for batch operations
 - [ ] Image resizing capabilities
+- [ ] Support Homebrew installation
 
 ## Acknowledgments
 
